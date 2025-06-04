@@ -1,4 +1,4 @@
 # html-css
-Curso de HTML5 e CSS3
-+
-Estou mexendo no repositório
+Site teste de The Amazing Sweper
+
+<a href="exercicios/Desafio 010/Desafio10Aula/Android.html">Site do curso</a>
